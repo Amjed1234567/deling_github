@@ -15,3 +15,6 @@
 * [Øvelsesopgaver i matematik](https://github.com/mpsteenstrup/matematik)
 * [Escaperoom](https://github.com/mpsteenstrup/fysik/blob/main/escaperoom/readme.md)
 
+## Om mig
+- Navn: Amjed Farooq Afzal
+- Rolle: Deltager i GitHub workshop 12.11.2026 kl. 15.21.
